@@ -1,6 +1,3 @@
-// Full-stack application with:
-// - Frontend: TypeScript/Next.js
-// - Backend: Python/FastAPI
 {
   "name": "my-v0-project",
   "version": "0.1.0",

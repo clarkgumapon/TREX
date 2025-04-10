@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Fab & Fierce Fashion Store
 
 A modern, full-stack e-commerce platform built with Next.js, FastAPI, and SQLite, featuring a beautiful UI and rich functionality for fashion retail.
@@ -146,3 +147,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 =======
 # TREXIE
 >>>>>>> bae15b534f9083edb563b2d5b85795c2bebbb0dc
+=======
+# TREX
+>>>>>>> 160905247b42ae11d5af5f0d7818d8a3385eef54
